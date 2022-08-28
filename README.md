@@ -1,4 +1,4 @@
-# dice_application
+# dice_game -> flutter
 
 A new Flutter project.
 
